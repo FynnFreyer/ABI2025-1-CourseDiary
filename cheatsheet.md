@@ -5,8 +5,8 @@ This table holds commonly used git commands.
 | cmd | description                       |
 |-----|-----------------------------------|
 | add | put something in the staging area |
-| commit | put the changes in the staging area into the repository |
 | clone | get an identical copy of a remote repository |
+| commit | put the changes in the staging area into the repository |
 | log | give a record of the commit history |
 | push | push local commits to the remote |
 | remote | commands to manage remote repositories |
