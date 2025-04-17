@@ -1,14 +1,15 @@
 # Cheatsheet
 
+This table holds commonly used git commands.
+
 | cmd | description                       |
 |-----|-----------------------------------|
 | add | put something in the staging area |
+| commit | put the changes in the staging area into the repository |
+| clone | get an identical copy of a remote repository |
+| log | give a record of the commit history |
+| push | push local commits to the remote |
+| remote | commands to manage remote repositories |
+| status | inspect the staging area and the differences between working dir and repo |
 
-
-git commit: put the changes in the staging area into the repository  
-git clone: get an identical copy of a remote repository  
-git log: give a record of the commit history  
-git push: push local commits to the remote  
-git remote: commands to manage remote repositories  
-git status: inspect the staging area and the differences between working dir and repo  
-
+Also see [Oh shit, Git?!](https://ohshitgit.com).
