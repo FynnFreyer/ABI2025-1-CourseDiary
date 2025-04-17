@@ -5,6 +5,7 @@ This table holds commonly used git commands.
 | cmd | description                       |
 |-----|-----------------------------------|
 | add | put something in the staging area |
+| checkout | access a commit; restore the repository state at that commit |
 | clone | get an identical copy of a remote repository |
 | commit | put the changes in the staging area into the repository |
 | log | give a record of the commit history |
